@@ -7,15 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
-Pre-Prints
-======
+Pre-Prints:
+-----------
 
 {% for post in site.papers.pre-prints reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-Papers
-======
+Papers:
+-------
 
 {% for post in site.papers reversed %}
   {% include archive-single.html %}
