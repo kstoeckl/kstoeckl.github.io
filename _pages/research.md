@@ -5,18 +5,22 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
-
 Pre-Prints:
 -----------
 
-{% for post in site.pre-prints reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Authors, *Title*, Journal, [pdf](https://kstoeckl.github.io/files/paper1.pdf), [arXiv](https://www.example.com) 
+<details>
+  <summary>Abstract</summary>
+  
+  Blaaaarggggggggggggggghhh
+</details>
 
 Papers:
 -------
 
-{% for post in site.papers reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Authors, *Title*, Journal, [pdf](https://kstoeckl.github.io/files/paper1.pdf), [arXiv](https://www.example.com) 
+<details>
+  <summary>Abstract</summary>
+  
+  Blaaaarggggggggggggggghhh
+</details>
