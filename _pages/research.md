@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Papers"
-permalink: /papers/
+title: "Research"
+permalink: /research/
 author_profile: true
 ---
 
@@ -10,7 +10,7 @@ author_profile: true
 Pre-Prints:
 -----------
 
-{% for post in site.papers.pre-prints reversed %}
+{% for post in site.pre-prints reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
