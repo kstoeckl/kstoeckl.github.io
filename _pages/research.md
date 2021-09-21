@@ -10,13 +10,13 @@ author_profile: true
 Pre-Prints:
 -----------
 
-{% for post in site.pre-prints reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<ul>{% for post in site.pre-prints reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Papers:
 -------
 
-{% for post in site.papers reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+<ul>{% for post in site.papers reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
