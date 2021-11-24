@@ -7,6 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Pdf: ...
-
-Or Electronic (or both undecided)
+Here is an old fashioned [pdf](https://kstoeckl.github.io/files/test-cv.pdf).
