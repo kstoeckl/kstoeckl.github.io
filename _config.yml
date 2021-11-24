@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Kurt Stoeckl"
-  avatar           : #"profile.png"
+  name             : "Kurt Stoeckl"
+  avatar           : "profile.png"
   bio              : #"Your biography for the left-hand sidebar"
   location         : "The University of Melbourne"
   employer         :
@@ -188,10 +188,10 @@ collections:
     output: false
     permalink: /:collection/:path/
   papers:
-    output: true
+    output: false
     permalink: /:collection/:path/
   pre-prints:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
