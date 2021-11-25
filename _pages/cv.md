@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Here is an old fashioned [pdf](https://kstoeckl.github.io/files/test-cv.pdf).
+Here is an old fashioned [pdf](https://kstoeckl.github.io/files/CV.pdf).
