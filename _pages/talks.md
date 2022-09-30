@@ -12,6 +12,38 @@ CONTENT
 
 </details>
 
+<details>
+    <summary>Test 2</summary>
+
+    CONTENT
+
+</details>
+
+<details>
+    <summary>Test 5</summary>
+    <pre>	
+    Long content here
+    </pre>
+</details>
+
+<details>
+<summary>Test 3</summary>
+
+{% highlight ruby %}
+puts 'Expanded message'
+{% endhighlight %}
+
+</details>
+
+<details>
+    <summary>Test 4</summary>
+
+    {% highlight ruby %}
+    puts 'Expanded message'
+    {% endhighlight %}
+
+</details>
+
 
 - *A Koszul Operad Governing Wheeled Props*, [Categories and Companions Symposium 2022](https://categories-and-companions.github.io/), 23rd September 2022, 20 mins, [slides](https://kstoeckl.github.io/files/talks/2022/CaCS2022.pdf), 
 <details>
