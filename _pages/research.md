@@ -5,6 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 
+My [research statement](https://kstoeckl.github.io/files/ResearchStatement.pdf).
+
 Pre-Prints:
 -----------
 

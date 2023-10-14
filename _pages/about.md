@@ -8,6 +8,8 @@ redirect_from:
 ---
 Hi,
 
-I'm a PhD student at the University of Melbourne (with expected completion 2024), supervised by [Marcy Robertson](https://www.marcyrobertson.com/) and co-supervised by [Jan de Gier](https://blogs.unimelb.edu.au/jan-de-gier/). I've thus far mostly been looking at techniques for proving that operadic structures are Koszul. In particular, those based on Groebner bases and rewriting methods. In addition, I've also been thinking about polytopes and homotopy operadic structures.
+I'm a PhD student at the University of Melbourne (with expected completion 2024), supervised by [Marcy Robertson](https://www.marcyrobertson.com/). My research interests lie in the study of (homotopy) operadic structures and their algebras, particularly via combinatorial techniques.
+
+What is an [operad](https://www.math3ma.com/blog/what-is-an-operad-part-1), and where do [I fit in](https://kstoeckl.github.io/files/ResearchStatement.pdf)?
 
 If you want to get in touch my email is kstoeckl@student.unimelb.edu.au
