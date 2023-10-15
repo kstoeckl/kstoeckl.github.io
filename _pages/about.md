@@ -14,6 +14,6 @@ What is an [operad](https://www.math3ma.com/blog/what-is-an-operad-part-1), and 
 
 If you want to get in touch my email is kstoeckl@student.unimelb.edu.au
 
-![A higher structure in Prague...](https://kstoeckl.github.io/images/PhotoHSP2022.pdf)
+![A higher structure in Prague...](https://kstoeckl.github.io/images/PhotoHSP2022.png)
 
-[Higher Structures in Prague](https://workshop.math.cas.cz/higher-structures-in-prague/), with [Philip Hackney](https://phck.net/), and photo credits to [Guillaume Laplante Anfossi](https://guillaumelaplante-anfossi.github.io/).
+[Higher Structures in Prague](https://workshop.math.cas.cz/higher-structures-in-prague/), with [Philip Hackney](https://phck.net/), and [Guillaume Laplante Anfossi](https://guillaumelaplante-anfossi.github.io/) behind the camera.
