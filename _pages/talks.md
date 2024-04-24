@@ -7,10 +7,10 @@ author_profile: true
 
 Here is a subset of recent and coming talks.
 
-- *Graphical and Segal Infinity Props*, [Topology Seminar, Unversity of Melbourne](https://topology.science.unimelb.edu.au/topsem/), 6th May 2023, 60 mins, 
+- *Graphical and Segal Infinity Props*, [Topology Seminar, Unversity of Melbourne](https://topology.science.unimelb.edu.au/topsem/), 6th May 2024, 60 mins, 
     <details><summary>Abstract</summary>Simplicial sets are of fundamental importance in homotopy theory, as they provide a means to weaken the associativity of categorical composition. For instance, on the category of simplicial sets, the Joyal model structure provides a model of infinity categories, and the Kan-Quillen model structure provides a model of homotopy spaces. A prop is a type of symmetric monoidal category with two types of composition, a categorical composition, and a monoidal composition. In this talk, we will introduce a graphical set model for props, which allows us to weaken both compositions up to coherent homotopy. We will outline a Quillen equivalence to a new definition of a Segal infinity prop, and time permitting, relate these models to existing structures in literature. This talk is based on joint work with Philip Hackney and Marcy Robertson.</details>
 
-- *Introduction to Dendroidal Sets*, [Homotopy Theory Seminar, Unversity of Melbourne], 10th April 2023, 60 mins, 
+- *Introduction to Dendroidal Sets*, [Homotopy Theory Seminar, Unversity of Melbourne], 10th April 2024, 60 mins, 
     <details><summary>Abstract</summary>Simplicial sets are to categories, as dendroidal sets are to operads. In this talk, we shall recall the first two definitions, unpack the latter two, and formalise this analogy as a commutative square of adjoint pairs.</details>
 
 - *Homotopy Probs and Other G-Operadic Structures*, [AustMS 2023](https://austms2023.smp.uq.edu.au/), 5th Dec 2023, 20 mins, [slides](https://kstoeckl.github.io/files/talks/2023/AUSTMS2023.pdf)
