@@ -7,7 +7,7 @@ author_profile: true
 
 Here is a subset of recent and coming talks.
 
-- *Segal Infinity Props*, [Young Topologists Meeting 2024](https://www.uni-muenster.de/MathematicsMuenster/events/2024/YTM.shtml), 8th August 2024, 25 mins, 
+- *Segal Infinity Props*, [Young Topologists Meeting 2024](https://www.uni-muenster.de/MathematicsMuenster/events/2024/YTM.shtml), 8th August 2024, 25 mins, [slides](https://kstoeckl.github.io/files/talks/2024/YTM2024.pdf)
     <details><summary>Abstract</summary>Props, and their traced variants (wheeled props), are special types of symmetric monoidal categories with two types of strictly associative compositions, the first being categorical, and the second monoidal. They are ubiquitous in mathematics, encoding structures in algebraic topology, deformation theory and knot theory such as Hopf algebras and tangles. However, many interesting mathematical objects, such as Segal’s cobordism categories, don’t admit strictly associative compositions. In this talk, without assuming familiarity with the prior structures, we will introduce a Segal model for homotopy (or infinity) props, which lets us weaken the associativity of the categorical and monoidal compositions up to coherent homotopy. We will then relate this model to other definitions of infinity props, operads, and categories via various nerve theorems. This talk is based on joint work with Philip Hackney and Marcy Robertson.</details>
 
 - *Homological Calculus For Operadic Algebras*, [European Talbot Workshop 2024](https://sites.google.com/view/european-talbot/2024-workshop), 29th July 2024, 60 mins, 
