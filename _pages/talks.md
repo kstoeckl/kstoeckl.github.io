@@ -7,7 +7,7 @@ author_profile: true
 
 Here is a subset of recent and coming talks.
 
-- *Maximal Compatibility of $G$-Transfer Systems*, [AUSTMS], 12th December 2025, 20 Mins, [slides](https://kstoeckl.github.io/files/talks/2025/AUSTMS2025.pdf)
+- *Maximal Compatibility of $G$-Transfer Systems*, [AUSTMS 2025](https://austms2025.org.au/), 12th December 2025, 20 Mins, [slides](https://kstoeckl.github.io/files/talks/2025/AUSTMS2025.pdf)
     <details><summary>Abstract</summary>Transfer systems are a combinatorial model for weakly commutative structures in equivariant homotopy theory, such as the additive transfers and multiplicative norms of $G$-spectra. They let us combinatorially classify all weakly commutative $G$-structures, and identify when an additive transfer is compatible with a multiplicative norm. In this talk, we shall recall what a transfer system is, before providing novel formulae for identifying which additive transfers are compatible with which multiplicative norms, i.e. given a fixed transfer system we compute its maximal compatible transfer system. We shall also discuss, how (maximal) compatibility is preserved by the inflation map induced by a quotient of groups, and a conjectured expression for the maximal compatible transfer system of an additive/disklike $G$-transfer system. This material is based upon work supported by the National Science Foundation under Grant Number DMS 1916439, and is joint with DeMark, Hill, Kamel, Niu, Van Niel and Yan.</details>
 
 - *Combinatorial Techniques in Operadic Homotopy Theory*, [PhD Completion Seminar], 24th January 2025, 1 hour, [slides](https://kstoeckl.github.io/files/talks/2025/completionseminar.pdf)
